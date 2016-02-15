@@ -1,0 +1,28 @@
+name: make or brake the grid
+favicon: null
+layout_spectrum: 0.9487165997270495
+typography_spectrum: 0.13801084156148136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9474637252278626
+  lightness: 0.7691298045683652
+  saturation: 0.38045361964032054
+  rhythmicContrast: 0.1295646436046809
+purpose: []
