@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Making or braking the grid, hello world first post. Page title and description '
-datePublished: '2016-02-17T19:32:42.544Z'
-dateModified: '2016-02-17T19:32:12.920Z'
+description: "Hello Grid\_"
+datePublished: '2016-04-05T13:59:19.874Z'
+dateModified: '2016-04-05T13:59:04.940Z'
 title: Making or braking
 author: []
 sourcePath: _posts/2016-02-15-making-or-braking.md
