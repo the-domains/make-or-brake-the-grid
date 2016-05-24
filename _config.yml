@@ -1,4 +1,8 @@
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: make or brake the grid
 opengraph:
   image: null
   type: null
@@ -18,23 +22,19 @@ collections:
 purpose: []
 typography_spectrum: 0.1638298
 color:
-  saturation: 0.3276596
+  saturation: 0.4553191
   brandStrength: 0.4553191
-  lightness: 0.4574468
+  lightness: 0.5723404
   brandColors:
     - '#040F1E'
     - '#92B3D8'
     - '#E0E8E9'
     - '#FFBD91'
     - '#C6786E'
-  rhythmicContrast: 0.312766
+  rhythmicContrast: 0.2638298
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 1
-name: make or brake the grid
+favicon: null
