@@ -1,4 +1,4 @@
-name: make or brake the grid
+favicon: null
 opengraph:
   image: null
   type: null
@@ -9,32 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.1638298
 color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
+  saturation: 0.3276596
+  brandStrength: 0.4553191
+  lightness: 0.4574468
   brandColors:
     - '#040F1E'
     - '#92B3D8'
     - '#E0E8E9'
     - '#FFBD91'
     - '#C6786E'
-  lightness: 1
-purpose: []
+  rhythmicContrast: 0.312766
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0.1638298
+layout_spectrum: 1
+name: make or brake the grid
