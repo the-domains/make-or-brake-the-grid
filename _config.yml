@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Hello new editor
+description: 'all in place, hä?'
 purpose: []
