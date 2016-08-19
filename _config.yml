@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Ready
+    id: 867e8b26-3290-44ce-a5ca-633dbc7f8193
+    type: content
 favicon: null
 collections:
   - index:
